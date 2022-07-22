@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "4285ff5f-e1af-4d9d-ae80-e0b0d7e80e4f",
+      "title": "API testing rocks!"
+    },
+    {
+      "id": "01019ea3-5921-4dd7-9c57-f43d0f16f42a",
+      "title": "API testing rocks!"
+    },
+    {
+      "id": "e159bdbf-7fbc-4172-9a78-b38d7532797b",
+      "title": "API testing rocks!"
+    },
+    {
+      "id": "7a0ee208-288b-453e-b3e7-d8b863ac3831",
+      "title": "This IS TITLE FOR UNIT TESTING"
+    },
+    {
+      "id": "08eae43e-d30b-414a-8e88-88862f3bcfae",
+      "title": "This IS TITLE FOR UNIT TESTING"
+    },
+    {
+      "id": "187f8854-e9ce-4450-8d27-31e4f26a430b",
+      "title": "This IS TITLE FOR UNIT TESTING"
+    },
+    {
+      "id": "452d86cd-469d-40b5-af8e-5ef16a6e5e58",
+      "title": "This IS TITLE FOR UNIT TESTING"
+    },
+    {
+      "id": "6766a978-30b7-4ce1-a1a0-7e741bd8e6c6",
+      "title": "This IS TITLE FOR UNIT TESTING"
+    },
+    {
+      "id": "cdac9445-b2db-428d-a30d-eca47f69b204",
+      "title": "This IS TITLE FOR UNIT TESTING"
+    }
+  ]
+}
